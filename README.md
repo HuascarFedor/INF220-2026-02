@@ -16,7 +16,7 @@ La materia "Programación Orientada a Objetos y Estructuras de Datos" tiene como
 | **Asignatura:** | Programación Orientada a Objetos y Estructuras de Datos | **Sigla y código:** | INF 220 |
 | **Pre-Requisito:** | INF 120 | **Total de horas:** | 6 horas/semana |
 | **Trabajo Independiente semanal:** | 6 horas | **Número de créditos:** | 6 |
-| **Horas teóricas:** 3 · **Horas prácticas:** 0 · **Horas laboratorio:** 3 | | **Semestre:** | Segundo Semestre |
+| **Horas teóricas:** 3 <br> **Horas prácticas:** 0 <br> **Horas laboratorio:** 3 | | **Semestre:** | Segundo Semestre |
 | **Docente:** | M. Sc. Huáscar Fedor Gonzales Guzmán | **Email:** | huascar.fedor@gmail.com |
 
 ---
